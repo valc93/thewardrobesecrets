@@ -1,4 +1,4 @@
-thewardrobesecrets
+The Wardrobe Secrets Blog Mockup
 ==================
 
-Blog mockup for thewardrobesecrets.com
+Blog Theme
